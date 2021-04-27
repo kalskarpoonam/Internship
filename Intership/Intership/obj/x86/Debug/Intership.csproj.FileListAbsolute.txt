@@ -1,0 +1,4 @@
+F:\Programs Cshap and Asp\Intership\Intership\bin\Debug\Intership.exe
+F:\Programs Cshap and Asp\Intership\Intership\bin\Debug\Intership.pdb
+F:\Programs Cshap and Asp\Intership\Intership\obj\x86\Debug\Intership.exe
+F:\Programs Cshap and Asp\Intership\Intership\obj\x86\Debug\Intership.pdb

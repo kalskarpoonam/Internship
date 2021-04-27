@@ -1,0 +1,25 @@
+1. Intership
+
+Steps required to this Project as follows
+
+1. Run the Code
+2. On console at first line enter interger numbers. 
+		eg. 5
+3. after that on next line enter the 4 integer numbers
+		eg. 2 1 4 5
+4. Press enter key
+5. after that the missing no get displayed.
+		eg. in above case it is 3. so it get displaed as missing number.
+
+
+
+
+2. Movie Review Program
+
+1. User have to login to system with
+	UserName= admin
+	Password = admin
+2.On 2nd page user get information about the recent movies like movie poster,movie name,average   rating, also the recent top 2 comments related with that movie.
+3.By clicking on Add Review link he cant give review to the movie.
+
+4.On Review page he have enter his name,city,comment and his rating to movie.
